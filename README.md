@@ -1,6 +1,5 @@
-#                 与其蒸馏他人，不如蒸馏自己
-
 <div align="center">
+# 与其蒸馏他人，不如蒸馏自己
 
 ![GitHub stars](https://img.shields.io/github/stars/YCHDDZZ/personal-assistant-skill?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/YCHDDZZ/personal-assistant-skill?style=social)
